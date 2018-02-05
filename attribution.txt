@@ -1,0 +1,34 @@
+LICENSES
+
+CC0                 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+CC-BY 3.0        http://creativecommons.org/licenses/by/3.0/legalcode
+
+CODE
+
+All code is licensed CC0.
+
+FONTS
+
+The FontStruction “Vipond Octic”
+(http://fontstruct.fontshop.com/fontstructions/show/9919) by James Vipond is
+licensed under a Creative Commons Attribution Share Alike license
+(http://creativecommons.org/licenses/by-sa/3.0/).
+See resources\fonts\license.txt and resources\fonts\readme.txt
+
+The FontStruction “Vipond Angular”
+(http://fontstruct.fontshop.com/fontstructions/show/11776) by James Vipond is
+licensed under a Creative Commons Attribution Share Alike license
+(http://creativecommons.org/licenses/by-sa/3.0/).
+See resources\fonts\license.txt and resources\fonts\readme.txt
+
+IMAGES
+
+Crystals
+
+Source: https://opengameart.org/content/animated-spinning-gems
+Creator: Code Inferno Games - codeinferno.com
+LICENSE: CC-BY 3.0
+
+SOUNDS
+
+Sounds created with LMMS and are licensed CC0.
